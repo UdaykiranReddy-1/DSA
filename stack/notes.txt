@@ -1,2 +1,0 @@
-for diagonal difference in hackerrank , nested for didn't work , else two sep for's worked
-not used long int, test cases were failing miserably , I scratched my head looking code 100 times , then realised big numbers and changed to long , every test case passed in one sec
